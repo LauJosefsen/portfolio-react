@@ -11,7 +11,6 @@ import DarkFooter from "components/Footers/DarkFooter.js";
 
 // sections for this page
 import Images from "./index-sections/Images.js";
-import BasicElements from "./index-sections/BasicElements.js";
 import Navbars from "./index-sections/Navbars.js";
 import Tabs from "./index-sections/Tabs.js";
 import Pagination from "./index-sections/Pagination.js";
