@@ -58,7 +58,7 @@ function IndexNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              Now UI Kit React
+              Tobias han er dårlig til Warzone.
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
               Designed by Invision. Coded by Creative Tim
