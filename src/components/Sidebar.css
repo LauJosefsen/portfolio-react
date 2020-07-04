@@ -1,0 +1,27 @@
+.sidebar {
+    width: 30%;
+    text-align: center;
+    background-color: #171a1f;
+    color:white;
+}
+
+@media screen and (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+    }
+}
+
+.nav{
+}
+.nav-item{
+    width:100%;
+    color:inherit;
+}
+a.nav-link{
+    color:inherit;
+}
+
+.code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+}

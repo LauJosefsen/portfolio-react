@@ -1,0 +1,22 @@
+.image-container {
+    margin: 10%;
+    margin-left:auto;margin-right:auto;
+    width: 80%;
+    max-width: 300px;
+    padding: 1em;
+    background-color: black;
+    border-radius:50%;
+    background-image: url("/images/profile.png");
+    background-size: cover;
+    background-position: 50%;
+}
+.image-child {
+    margin-top: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .image-container {
+        
+    max-width: 200px;
+    }
+}
