@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardImg, CardBody, CardTitle, CardSubtitle, CardText, Button, Row, Col } from "reactstrap";
+import { Row } from "reactstrap";
 import ProjectCard from "../../components/ProjectCard";
 
 const Projects = () => {
