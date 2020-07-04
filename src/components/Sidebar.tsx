@@ -26,10 +26,10 @@ const Sidebar = () => {
                     <Link className="nav-link" to="/projects">PROJEKTER</Link>
                 </NavItem>
                 <NavItem>
-                    <NavLink href="https://github.com/LauJosefsen">GITHUB</NavLink>
+                    <NavLink target="_blanc" href="https://github.com/LauJosefsen">GITHUB</NavLink>
                 </NavItem>
                 <NavItem>
-                    <NavLink href="https://www.linkedin.com/in/lau-ernebjerg-josefsen-09734717a/">LINKEDIN</NavLink>
+                    <NavLink target="_blanc" href="https://www.linkedin.com/in/lau-ernebjerg-josefsen-09734717a/">LINKEDIN</NavLink>
                 </NavItem>
             </Nav>
         </div>
