@@ -3,6 +3,7 @@ import { PHP, HTMLCSS, Bootstrap } from "./technologies";
 
 export const projects: Project[] = [
     {
+        id: "tv2-kps",
         name: "TV2 - Klar Parat Svar kategoritavle",
         description: "WIP",
         technologies: [PHP, HTMLCSS, Bootstrap],

@@ -1,6 +1,7 @@
 import Technology from "./Technology";
 
 export interface Project {
+    id: string | number;
     name: string;
     description: string;
     technologies: Technology[];
